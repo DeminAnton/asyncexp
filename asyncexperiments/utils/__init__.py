@@ -1,1 +1,1 @@
-from asyncexperiments.utils.async_timer import async_timed
+from utils.async_timer import async_timed

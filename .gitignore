@@ -65,6 +65,7 @@ ENV/
 env/
 env.bak/
 venv.bak/
+.pylintrc
 
 # Spyder project settings
 .spyderproject
